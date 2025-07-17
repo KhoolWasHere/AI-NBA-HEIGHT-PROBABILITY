@@ -1,1 +1,1 @@
-A application using python and a regression ai model to output the probability of a preset height of a person in inches to make it into the NBA. Truth is, height isnt the only factor, this is just so I can learn.
+A regression model that predicts and returns the probability of a person being an NBA player based on their stats.
